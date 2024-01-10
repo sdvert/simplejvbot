@@ -1,0 +1,10 @@
+Para adicionar contas manualmente, você deverá abrir o arquivo MANAGER com o python.
+
+Para IMPORTAR contas (Sessões) Você deverá soltar os arquivos .session (Ou seja, os números comprados) na
+pasta do Robô, e depois irá abrir o arquivo "importarnumero", ele vai importar automaticamente a sessão
+e pedirá para você apertar ENTER para finalizar a importação dos números. DEPOIS QUE O ROBÔ FECHAR, mova
+os arquivos .session que estão soltos na pasta do Robô, para dentro da pasta sessions do robô.
+
+Depois, basta abrir o arquivo "add" para iniciar o Robô para fazer extração e adição de membros.
+
+Se necessitar deletar ou remover alguma conta, abra o arquivo MANAGER!
